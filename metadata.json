@@ -1,0 +1,6 @@
+{
+  "name": "PyQuest — Interactive Multi-Topic Quiz Game",
+  "description": "Rapid-fire quizzes across General Knowledge, Movies & Cinema, Video Games, Python & Code, and Science with timed rounds, streak multipliers, 50/50 lifelines, and local leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
